@@ -51,7 +51,7 @@
   "homepage": "https://github.com/dcangulo/react-native-pkce-challenge",
   "dependencies": {
     "crypto-js": "3.3.0",
-    "crypto-js"
+    "crypto": "^1.0.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.0.3",
